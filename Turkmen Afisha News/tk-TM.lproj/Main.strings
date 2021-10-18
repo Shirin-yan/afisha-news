@@ -1,0 +1,588 @@
+
+/* Class = "UIButton"; normalTitle = "Turn Sound of Notifications on"; ObjectID = "0D3-Se-jkj"; */
+"0D3-Se-jkj.normalTitle" = "Turn Sound of Notifications on";
+
+/* Class = "UIButton"; normalTitle = "Ashgabat "; ObjectID = "0JR-vb-9pq"; */
+"0JR-vb-9pq.normalTitle" = "Aşgabat ";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "0kj-8n-aVR"; */
+"0kj-8n-aVR.text" = "Label";
+
+/* Class = "UILabel"; text = "Settings"; ObjectID = "1GW-kI-5ZK"; */
+"1GW-kI-5ZK.text" = "Settings";
+
+/* Class = "UILabel"; text = "No Information"; ObjectID = "1cC-KU-jsA"; */
+"1cC-KU-jsA.text" = "No Information";
+
+/* Class = "UILabel"; text = "+9932"; ObjectID = "1rQ-ge-64s"; */
+"1rQ-ge-64s.text" = "+9932";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "2BR-2P-xoa"; */
+"2BR-2P-xoa.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "2YA-4L-FcR"; */
+"2YA-4L-FcR.text" = "Label";
+
+/* Class = "UILabel"; text = "Ideal"; ObjectID = "34A-MU-FOq"; */
+"34A-MU-FOq.text" = "Ideal";
+
+/* Class = "UILabel"; text = "No results were found"; ObjectID = "3go-G6-rDM"; */
+"3go-G6-rDM.text" = "Netije tapylmady";
+
+/* Class = "UITextField"; placeholder = "Title"; ObjectID = "3ld-UT-Unl"; */
+"3ld-UT-Unl.placeholder" = "Sözbaşy";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "3wl-Bq-acW"; */
+"3wl-Bq-acW.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Send"; ObjectID = "4Ro-rq-6nw"; */
+"4Ro-rq-6nw.normalTitle" = "Iber";
+
+/* Class = "UILabel"; text = "Search"; ObjectID = "4bV-Nz-yVG"; */
+"4bV-Nz-yVG.text" = "Gözle";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "550-Xq-vdG"; */
+"550-Xq-vdG.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "5hq-5l-jDk"; */
+"5hq-5l-jDk.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Send "; ObjectID = "67d-c8-pJc"; */
+"67d-c8-pJc.normalTitle" = "Gözle ";
+
+/* Class = "UILabel"; text = "Profile"; ObjectID = "6Jd-3V-0Rj"; */
+"6Jd-3V-0Rj.text" = "Profil";
+
+/* Class = "UIButton"; normalTitle = "Select Language"; ObjectID = "6Mq-hn-bd9"; */
+"6Mq-hn-bd9.normalTitle" = "Dil saýla";
+
+/* Class = "UIButton"; normalTitle = " "; ObjectID = "6cK-rm-qH5"; */
+"6cK-rm-qH5.normalTitle" = " ";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "6xe-wf-yKt"; */
+"6xe-wf-yKt.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "7ED-bR-Zx2"; */
+"7ED-bR-Zx2.text" = "Label";
+
+/* Class = "UILabel"; text = "Turkmen Afisha News"; ObjectID = "7XD-73-Zz3"; */
+"7XD-73-Zz3.text" = "Turkmen Afisha News";
+
+/* Class = "UILabel"; text = "Stories"; ObjectID = "7Xa-4M-dIU"; */
+"7Xa-4M-dIU.text" = "Stories";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "7dm-jF-1k4"; */
+"7dm-jF-1k4.text" = "Label";
+
+/* Class = "UILabel"; text = "12345"; ObjectID = "7fU-Hb-uNc"; */
+"7fU-Hb-uNc.text" = "12345";
+
+/* Class = "UILabel"; text = "followers"; ObjectID = "81O-DR-aPJ"; */
+"81O-DR-aPJ.text" = "yzarlaýanlar";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "8Vg-BN-UK3"; */
+"8Vg-BN-UK3.text" = "Label";
+
+/* Class = "UILabel"; text = "Stories "; ObjectID = "8of-tp-HB3"; */
+"8of-tp-HB3.text" = "Stories ";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "9XT-2e-pEx"; */
+"9XT-2e-pEx.text" = "Label";
+
+/* Class = "UILabel"; text = "following"; ObjectID = "9cB-rJ-XfU"; */
+"9cB-rJ-XfU.text" = "yzarlaýanlarym";
+
+/* Class = "UIButton"; normalTitle = "Rules"; ObjectID = "9vV-ie-vQI"; */
+"9vV-ie-vQI.normalTitle" = "Kadalar";
+
+/* Class = "UIButton"; normalTitle = "English"; ObjectID = "A1G-Gw-IcC"; */
+"A1G-Gw-IcC.normalTitle" = "English";
+
+/* Class = "UITextField"; placeholder = "Confirmation Code"; ObjectID = "Acc-8w-bXh"; */
+"Acc-8w-bXh.placeholder" = "Tassyklama kody";
+
+/* Class = "UIButton"; normalTitle = "Contact Us"; ObjectID = "AdG-G5-VIE"; */
+"AdG-G5-VIE.normalTitle" = "Habarlaşmak";
+
+/* Class = "UIButton"; normalTitle = "Ahal "; ObjectID = "B1v-rm-SRJ"; */
+"B1v-rm-SRJ.normalTitle" = "Ahal ";
+
+/* Class = "UIButton"; normalTitle = "3"; ObjectID = "B5e-RE-Sor"; */
+"B5e-RE-Sor.normalTitle" = "3";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "BaQ-1b-nkK"; */
+"BaQ-1b-nkK.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "1"; ObjectID = "Bla-8X-xCR"; */
+"Bla-8X-xCR.text" = "1";
+
+/* Class = "UIButton"; normalTitle = " "; ObjectID = "Buc-FV-XoK"; */
+"Buc-FV-XoK.normalTitle" = " ";
+
+/* Class = "UILabel"; text = "+9999"; ObjectID = "Bxt-x3-hwo"; */
+"Bxt-x3-hwo.text" = "+9999";
+
+/* Class = "UITextField"; placeholder = "Phone Number"; ObjectID = "COD-6V-fuu"; */
+"COD-6V-fuu.placeholder" = "Telefon belgisi";
+
+/* Class = "UITextField"; placeholder = "Confirm Password"; ObjectID = "D9g-qd-fdT"; */
+"D9g-qd-fdT.placeholder" = "Açarsözi tassykla";
+
+/* Class = "UIButton"; normalTitle = " "; ObjectID = "DKd-yP-HUv"; */
+"DKd-yP-HUv.normalTitle" = " ";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "DfX-RA-X9B"; */
+"DfX-RA-X9B.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "E4g-F7-j9X"; */
+"E4g-F7-j9X.text" = "Label";
+
+/* Class = "UILabel"; text = "Confirm Account "; ObjectID = "EYY-yR-Hef"; */
+"EYY-yR-Hef.text" = "Akkaundy tassykla";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "F0G-w5-pNZ"; */
+"F0G-w5-pNZ.normalTitle" = "Gir";
+
+/* Class = "UIButton"; normalTitle = " "; ObjectID = "F1J-GC-snv"; */
+"F1J-GC-snv.normalTitle" = " ";
+
+/* Class = "UIButton"; normalTitle = "Русский"; ObjectID = "F4n-wW-Esz"; */
+"F4n-wW-Esz.normalTitle" = "Русский";
+
+/* Class = "UITextField"; placeholder = "Username"; ObjectID = "FJV-Qp-P61"; */
+"FJV-Qp-P61.placeholder" = "Ulanyjynyň ady";
+
+/* Class = "UIButton"; normalTitle = " "; ObjectID = "FgH-G2-WXC"; */
+"FgH-G2-WXC.normalTitle" = " ";
+
+/* Class = "UILabel"; text = "Profile"; ObjectID = "FwN-qb-izc"; */
+"FwN-qb-izc.text" = "Profil";
+
+/* Class = "UILabel"; text = " Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label "; ObjectID = "G0l-Cf-LWV"; */
+"G0l-Cf-LWV.text" = " Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label ";
+
+/* Class = "UIButton"; normalTitle = " "; ObjectID = "GLy-xF-2jB"; */
+"GLy-xF-2jB.normalTitle" = " ";
+
+/* Class = "UILabel"; text = "Sizin ideal hyzmatynyz"; ObjectID = "GWh-cY-El2"; */
+"GWh-cY-El2.text" = "Sizin ideal hyzmatynyz";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Gaj-9C-PPM"; */
+"Gaj-9C-PPM.text" = "Label";
+
+/* Class = "UILabel"; text = "Profile"; ObjectID = "GeI-pd-eZ1"; */
+"GeI-pd-eZ1.text" = "Profil";
+
+/* Class = "UIButton"; normalTitle = " "; ObjectID = "GgE-hZ-aHK"; */
+"GgE-hZ-aHK.normalTitle" = " ";
+
+/* Class = "UILabel"; text = "Profile"; ObjectID = "GsE-8m-TbF"; */
+"GsE-8m-TbF.text" = "Profil";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "HYg-iF-Gxc"; */
+"HYg-iF-Gxc.text" = "Label";
+
+/* Class = "UILabel"; text = "Favorites"; ObjectID = "HeR-9Z-7KP"; */
+"HeR-9Z-7KP.text" = "Halanlarym";
+
+/* Class = "UILabel"; text = "1"; ObjectID = "I2r-6G-bEm"; */
+"I2r-6G-bEm.text" = "1";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "JFk-Sm-2Ix"; */
+"JFk-Sm-2Ix.placeholder" = "Açarsöz";
+
+/* Class = "UIButton"; normalTitle = "Continue"; ObjectID = "Jcq-a3-ti6"; */
+"Jcq-a3-ti6.normalTitle" = "Dowam et";
+
+/* Class = "UIButton"; normalTitle = "Subscibe"; ObjectID = "Jhx-4C-6X0"; */
+"Jhx-4C-6X0.normalTitle" = "Yzarla";
+
+/* Class = "UIButton"; normalTitle = "Log out"; ObjectID = "K2t-2o-XiC"; */
+"K2t-2o-XiC.normalTitle" = "Çyk";
+
+/* Class = "UIButton"; normalTitle = " "; ObjectID = "KhV-bK-pqA"; */
+"KhV-bK-pqA.normalTitle" = " ";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Kjc-g9-isf"; */
+"Kjc-g9-isf.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = " "; ObjectID = "Lgq-Lg-8qr"; */
+"Lgq-Lg-8qr.normalTitle" = " ";
+
+/* Class = "UILabel"; text = "Favorites"; ObjectID = "LtM-ZU-66J"; */
+"LtM-ZU-66J.text" = "Halanlarym";
+
+/* Class = "UILabel"; text = "Favorites"; ObjectID = "MTF-pV-1VE"; */
+"MTF-pV-1VE.text" = "Halanlarym";
+
+/* Class = "UIButton"; normalTitle = " "; ObjectID = "MaQ-y0-6Xr"; */
+"MaQ-y0-6Xr.normalTitle" = " ";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "N2J-3e-j44"; */
+"N2J-3e-j44.text" = "Label";
+
+/* Class = "UILabel"; text = "Search"; ObjectID = "N2z-6p-4IC"; */
+"N2z-6p-4IC.text" = "Gözle";
+
+/* Class = "UILabel"; text = "Search"; ObjectID = "NUc-8v-lYh"; */
+"NUc-8v-lYh.text" = "Gözle";
+
+/* Class = "UILabel"; text = "News"; ObjectID = "Nhu-Pe-KWs"; */
+"Nhu-Pe-KWs.text" = "Täzelikler";
+
+/* Class = "UILabel"; text = "Favorites"; ObjectID = "NvT-47-xp1"; */
+"NvT-47-xp1.text" = "Halanlarym";
+
+/* Class = "UIButton"; normalTitle = "Mary "; ObjectID = "OGP-NY-xne"; */
+"OGP-NY-xne.normalTitle" = "Mary ";
+
+/* Class = "UILabel"; text = "Settings"; ObjectID = "OKp-Uw-GXX"; */
+"OKp-Uw-GXX.text" = "Sazlamalar";
+
+/* Class = "UILabel"; text = "News"; ObjectID = "OMD-kY-fq7"; */
+"OMD-kY-fq7.text" = "Täzelikler";
+
+/* Class = "UILabel"; text = "123"; ObjectID = "OWg-B7-r63"; */
+"OWg-B7-r63.text" = "123";
+
+/* Class = "UILabel"; text = "Ideal"; ObjectID = "OZh-az-IZm"; */
+"OZh-az-IZm.text" = "Ideal";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "P7p-vQ-oF9"; */
+"P7p-vQ-oF9.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = " "; ObjectID = "PSy-cU-UK8"; */
+"PSy-cU-UK8.normalTitle" = " ";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "PTh-sW-dv0"; */
+"PTh-sW-dv0.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "PZ4-UR-OjN"; */
+"PZ4-UR-OjN.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Pj4-Jk-oln"; */
+"Pj4-Jk-oln.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Qd5-kw-RgK"; */
+"Qd5-kw-RgK.text" = "Label";
+
+/* Class = "UILabel"; text = "Profile"; ObjectID = "Qes-df-Bkc"; */
+"Qes-df-Bkc.text" = "Profil";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "QhF-MO-fXK"; */
+"QhF-MO-fXK.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "See all"; ObjectID = "Qoo-Et-fZd"; */
+"Qoo-Et-fZd.normalTitle" = "Hemmesini gör";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "QuB-Mm-a3R"; */
+"QuB-Mm-a3R.text" = "Label";
+
+/* Class = "UILabel"; text = "Favorites"; ObjectID = "S4x-Gp-3pa"; */
+"S4x-Gp-3pa.text" = "Halanlarym";
+
+/* Class = "UILabel"; text = "Settings"; ObjectID = "SAz-3F-Z4Q"; */
+"SAz-3F-Z4Q.text" = "Sazlamalar";
+
+/* Class = "UILabel"; text = " Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label "; ObjectID = "SHd-l8-MtJ"; */
+"SHd-l8-MtJ.text" = " Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label ";
+
+/* Class = "UILabel"; text = "Favorites"; ObjectID = "SZk-ZX-eQg"; */
+"SZk-ZX-eQg.text" = "Halanlarym";
+
+/* Class = "UILabel"; text = "Offers"; ObjectID = "Tie-ea-0zE"; */
+"Tie-ea-0zE.text" = "Teklip";
+
+/* Class = "UILabel"; text = "Search"; ObjectID = "UaG-qJ-zWS"; */
+"UaG-qJ-zWS.text" = "Gözle";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Ux0-cb-LL4"; */
+"Ux0-cb-LL4.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Turkmenistan"; ObjectID = "VbC-wN-0Rg"; */
+"VbC-wN-0Rg.text" = "Turkmenistan";
+
+/* Class = "UIButton"; normalTitle = "Subscibe"; ObjectID = "Vk5-yd-ZWl"; */
+"Vk5-yd-ZWl.normalTitle" = "Yzarla";
+
+/* Class = "UILabel"; text = "Add photos"; ObjectID = "W4Q-wv-KAf"; */
+"W4Q-wv-KAf.text" = "Surat goş";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "WO4-UJ-q30"; */
+"WO4-UJ-q30.text" = "Label";
+
+/* Class = "UILabel"; text = "Phone numbers"; ObjectID = "WQP-Xi-sPQ"; */
+"WQP-Xi-sPQ.text" = "Telefon belgisi";
+
+/* Class = "UILabel"; text = "1234"; ObjectID = "WcS-6g-vqB"; */
+"WcS-6g-vqB.text" = "1234";
+
+/* Class = "UIButton"; normalTitle = " "; ObjectID = "WjU-a3-8MO"; */
+"WjU-a3-8MO.normalTitle" = " ";
+
+/* Class = "UILabel"; text = "Profile"; ObjectID = "WlP-VI-Efe"; */
+"WlP-VI-Efe.text" = "Profil";
+
+/* Class = "UILabel"; text = " Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label "; ObjectID = "Wus-xZ-u4a"; */
+"Wus-xZ-u4a.text" = " Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label ";
+
+/* Class = "UIButton"; normalTitle = "Türkmençe"; ObjectID = "XV5-zd-28Z"; */
+"XV5-zd-28Z.normalTitle" = "Türkmençe";
+
+/* Class = "UILabel"; text = "Category"; ObjectID = "Xz9-Qm-t2f"; */
+"Xz9-Qm-t2f.text" = "Kategoriýa";
+
+/* Class = "UILabel"; text = "ldkaskcmdsfkvmekrbl"; ObjectID = "Y0f-5G-F8Q"; */
+"Y0f-5G-F8Q.text" = "ldkaskcmdsfkvmekrbl";
+
+/* Class = "UITextField"; placeholder = "Username or phone number"; ObjectID = "YdK-Ti-aSn"; */
+"YdK-Ti-aSn.placeholder" = "Ulanyjynyň ady ýa-da telefon belgisi";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Ygg-9V-oht"; */
+"Ygg-9V-oht.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "or"; ObjectID = "YpP-ee-psM"; */
+"YpP-ee-psM.text" = "ýa-da";
+
+/* Class = "UILabel"; text = "Complaints "; ObjectID = "Z2V-8L-A2a"; */
+"Z2V-8L-A2a.text" = "Complaints ";
+
+/* Class = "UIButton"; normalTitle = "2"; ObjectID = "ZOL-Jl-zNO"; */
+"ZOL-Jl-zNO.normalTitle" = "2";
+
+/* Class = "UILabel"; text = "+ 993"; ObjectID = "Zf3-U6-QCz"; */
+"Zf3-U6-QCz.text" = "+ 993";
+
+/* Class = "UIButton"; normalTitle = "Lebap "; ObjectID = "Zh6-Kw-TWp"; */
+"Zh6-Kw-TWp.normalTitle" = "Lebap ";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "ZhL-lu-nuP"; */
+"ZhL-lu-nuP.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ZmV-E7-rqb"; */
+"ZmV-E7-rqb.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "Zsp-fs-Wmr"; */
+"Zsp-fs-Wmr.placeholder" = "Açarsöz";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "a71-HO-FA9"; */
+"a71-HO-FA9.text" = "Label";
+
+/* Class = "UILabel"; text = "Settings"; ObjectID = "aBd-1Z-mZM"; */
+"aBd-1Z-mZM.text" = "Sazlamalar";
+
+/* Class = "UILabel"; text = "Favorites"; ObjectID = "aHN-qE-QhB"; */
+"aHN-qE-QhB.text" = "Halanlarym";
+
+/* Class = "UIButton"; normalTitle = " "; ObjectID = "adK-Vz-t2y"; */
+"adK-Vz-t2y.normalTitle" = " ";
+
+/* Class = "UILabel"; text = "Search"; ObjectID = "atc-V2-3jd"; */
+"atc-V2-3jd.text" = "Gözle";
+
+/* Class = "UILabel"; text = "1234"; ObjectID = "b0Z-Vg-jYJ"; */
+"b0Z-Vg-jYJ.text" = "1234";
+
+/* Class = "UILabel"; text = "Ideal"; ObjectID = "b7g-iB-ZRg"; */
+"b7g-iB-ZRg.text" = "Ideal";
+
+/* Class = "UIButton"; normalTitle = "Subscibe"; ObjectID = "bI3-hS-GNf"; */
+"bI3-hS-GNf.normalTitle" = "Yzarla";
+
+/* Class = "UIButton"; normalTitle = "Balkan"; ObjectID = "bp9-4y-uyY"; */
+"bp9-4y-uyY.normalTitle" = "Balkan";
+
+/* Class = "UIButton"; normalTitle = "Select Region"; ObjectID = "c3l-lr-9bv"; */
+"c3l-lr-9bv.normalTitle" = "Region saýla";
+
+/* Class = "UILabel"; text = "About Us"; ObjectID = "cKi-Ml-CcF"; */
+"cKi-Ml-CcF.text" = "Biz barada";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "cgK-on-xgn"; */
+"cgK-on-xgn.normalTitle" = "Gir";
+
+/* Class = "UIButton"; normalTitle = "Log in"; ObjectID = "cvr-qn-elS"; */
+"cvr-qn-elS.normalTitle" = "Gir";
+
+/* Class = "UIButton"; normalTitle = " "; ObjectID = "eaZ-N4-TKD"; */
+"eaZ-N4-TKD.normalTitle" = " ";
+
+/* Class = "UIButton"; normalTitle = " "; ObjectID = "efI-4x-WvN"; */
+"efI-4x-WvN.normalTitle" = " ";
+
+/* Class = "UILabel"; text = "Settings"; ObjectID = "fMX-W4-p3U"; */
+"fMX-W4-p3U.text" = "Sazlamalar";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "fi3-4g-C2b"; */
+"fi3-4g-C2b.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Official's Categories"; ObjectID = "gSC-bJ-Pdv"; */
+"gSC-bJ-Pdv.text" = "Offisialyň kategoriýasy";
+
+/* Class = "UIButton"; normalTitle = "Search "; ObjectID = "gSs-vu-Oq2"; */
+"gSs-vu-Oq2.normalTitle" = "Gözle ";
+
+/* Class = "UIButton"; normalTitle = " "; ObjectID = "gZd-IL-mVx"; */
+"gZd-IL-mVx.normalTitle" = " ";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "gij-nx-vnJ"; */
+"gij-nx-vnJ.text" = "Label";
+
+/* Class = "UILabel"; text = "e-mail"; ObjectID = "hFb-Wl-TKH"; */
+"hFb-Wl-TKH.text" = "elektron salgysy";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "hW6-dq-2bB"; */
+"hW6-dq-2bB.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Continue"; ObjectID = "hkD-i9-GW4"; */
+"hkD-i9-GW4.normalTitle" = "dowam et";
+
+/* Class = "UILabel"; text = "All Officials"; ObjectID = "iMM-M1-m6l"; */
+"iMM-M1-m6l.text" = "Ähli offisiallar";
+
+/* Class = "UILabel"; text = "Region"; ObjectID = "iOC-dq-O94"; */
+"iOC-dq-O94.text" = "Region";
+
+/* Class = "UIButton"; normalTitle = "Share"; ObjectID = "iOy-0O-fuf"; */
+"iOy-0O-fuf.normalTitle" = "Paýlaş";
+
+/* Class = "UITextField"; placeholder = "Content"; ObjectID = "j6z-Oz-8QP"; */
+"j6z-Oz-8QP.placeholder" = "Düzümi";
+
+/* Class = "UILabel"; text = "Register"; ObjectID = "jYk-DD-fnJ"; */
+"jYk-DD-fnJ.text" = "Hasap döret";
+
+/* Class = "UILabel"; text = "phone number"; ObjectID = "jl5-aH-Oqf"; */
+"jl5-aH-Oqf.text" = "telefon belgisi";
+
+/* Class = "UILabel"; text = "Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label "; ObjectID = "k7k-Od-aMx"; */
+"k7k-Od-aMx.text" = "Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label ";
+
+/* Class = "UITextField"; placeholder = "Share-Code (Optional)"; ObjectID = "kZ8-Ok-qau"; */
+"kZ8-Ok-qau.placeholder" = "Share-Code (Optional)";
+
+/* Class = "UILabel"; text = "12345"; ObjectID = "l96-jv-7FV"; */
+"l96-jv-7FV.text" = "12345";
+
+/* Class = "UILabel"; text = "Login"; ObjectID = "lSz-qe-P0o"; */
+"lSz-qe-P0o.text" = "Login";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "n09-47-vs0"; */
+"n09-47-vs0.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "nQB-bu-Scv"; */
+"nQB-bu-Scv.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Search"; ObjectID = "nwB-4V-Kuv"; */
+"nwB-4V-Kuv.text" = "Gözle";
+
+/* Class = "UIButton"; normalTitle = "Forgot password"; ObjectID = "oCx-T2-LW7"; */
+"oCx-T2-LW7.normalTitle" = "Açarsözini ýatdan çykardym";
+
+/* Class = "UIButton"; normalTitle = " "; ObjectID = "oHi-ed-5I7"; */
+"oHi-ed-5I7.normalTitle" = " ";
+
+/* Class = "UILabel"; text = " Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label "; ObjectID = "oU1-cC-bKS"; */
+"oU1-cC-bKS.text" = " Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label ";
+
+/* Class = "UILabel"; text = "Last Officials "; ObjectID = "ogD-2R-hF4"; */
+"ogD-2R-hF4.text" = "Soňky offisiallar";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "qCK-sW-3Vu"; */
+"qCK-sW-3Vu.text" = "Label";
+
+/* Class = "UILabel"; text = "Add"; ObjectID = "qCz-JE-YAf"; */
+"qCz-JE-YAf.text" = "Goş";
+
+/* Class = "UIButton"; normalTitle = " "; ObjectID = "qFI-gK-yPF"; */
+"qFI-gK-yPF.normalTitle" = " ";
+
+/* Class = "UIButton"; normalTitle = "Send "; ObjectID = "qSF-hH-o3g"; */
+"qSF-hH-o3g.normalTitle" = "Iber ";
+
+/* Class = "UIButton"; normalTitle = " "; ObjectID = "qfv-0R-uZq"; */
+"qfv-0R-uZq.normalTitle" = " ";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "rDf-0g-aGk"; */
+"rDf-0g-aGk.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Settings"; ObjectID = "rJw-Ta-mvb"; */
+"rJw-Ta-mvb.text" = "Sazlamalar";
+
+/* Class = "UILabel"; text = "Contact"; ObjectID = "rmH-hP-3pK"; */
+"rmH-hP-3pK.text" = "Habarlaşmak";
+
+/* Class = "UIButton"; normalTitle = "About Us"; ObjectID = "sLe-eg-juD"; */
+"sLe-eg-juD.normalTitle" = "Biz barada";
+
+/* Class = "UIButton"; normalTitle = " "; ObjectID = "sSW-yb-52m"; */
+"sSW-yb-52m.normalTitle" = " ";
+
+/* Class = "UILabel"; text = "Thanks "; ObjectID = "uM7-gj-G7z"; */
+"uM7-gj-G7z.text" = "Thanks ";
+
+/* Class = "UIButton"; normalTitle = " "; ObjectID = "uSX-37-erK"; */
+"uSX-37-erK.normalTitle" = " ";
+
+/* Class = "UIButton"; normalTitle = "Subscribe"; ObjectID = "ubb-oL-hW1"; */
+"ubb-oL-hW1.normalTitle" = "Yzarla";
+
+/* Class = "UILabel"; text = "or"; ObjectID = "v1d-2P-O4I"; */
+"v1d-2P-O4I.text" = "or";
+
+/* Class = "UIButton"; normalTitle = "Dashoguz"; ObjectID = "vbe-gV-fTs"; */
+"vbe-gV-fTs.normalTitle" = "Daşoguz";
+
+/* Class = "UILabel"; text = "Sizin ideal hyzmatynyz"; ObjectID = "veI-3J-3XJ"; */
+"veI-3J-3XJ.text" = "Sizin ideal hyzmatynyz";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "wAk-cz-Vib"; */
+"wAk-cz-Vib.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Sizin ideal hyzmatynyz"; ObjectID = "wUK-fL-dCb"; */
+"wUK-fL-dCb.text" = "Sizin ideal hyzmatynyz";
+
+/* Class = "UIButton"; normalTitle = "Not registered yet? "; ObjectID = "wWC-x4-Ddy"; */
+"wWC-x4-Ddy.normalTitle" = "Henizem, akkaundym ýok";
+
+/* Class = "UIButton"; normalTitle = " "; ObjectID = "xJN-lz-U1w"; */
+"xJN-lz-U1w.normalTitle" = " ";
+
+/* Class = "UILabel"; text = "There is not any favorited articles"; ObjectID = "xcj-Mt-E3i"; */
+"xcj-Mt-E3i.text" = "Halan täzeliklerim ýok";
+
+/* Class = "UILabel"; text = "Search"; ObjectID = "yGp-Mv-84x"; */
+"yGp-Mv-84x.text" = "Gözle";
+
+/* Class = "UIButton"; normalTitle = "1"; ObjectID = "yMc-63-Ivh"; */
+"yMc-63-Ivh.normalTitle" = "1";
+
+/* Class = "UIButton"; normalTitle = "1"; ObjectID = "yNx-H3-8iA"; */
+"yNx-H3-8iA.normalTitle" = "1";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "yX7-O1-wlZ"; */
+"yX7-O1-wlZ.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = " "; ObjectID = "ylt-M9-tS5"; */
+"ylt-M9-tS5.normalTitle" = " ";
+
+/* Class = "UIButton"; normalTitle = " "; ObjectID = "yxo-en-fAt"; */
+"yxo-en-fAt.normalTitle" = " ";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "zBk-sS-5Yl"; */
+"zBk-sS-5Yl.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = " "; ObjectID = "zPL-4e-5Jl"; */
+"zPL-4e-5Jl.normalTitle" = " ";
+
+/* Class = "UIButton"; normalTitle = " "; ObjectID = "zRD-k9-WE2"; */
+"zRD-k9-WE2.normalTitle" = " ";
+
+/* Class = "UIButton"; normalTitle = " "; ObjectID = "zZ3-z4-uzB"; */
+"zZ3-z4-uzB.normalTitle" = " ";
+
+/* Class = "UILabel"; text = "Search"; ObjectID = "zrr-oh-2fG"; */
+"zrr-oh-2fG.text" = "Gözle";
+
+/* Class = "UIButton"; normalTitle = "Send "; ObjectID = "zzB-rT-RBh"; */
+"zzB-rT-RBh.normalTitle" = "Iber ";
